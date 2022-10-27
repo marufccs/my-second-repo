@@ -1,0 +1,50 @@
+[
+    {
+     "id" : "01",
+     "title" : "English",
+     "img" : "https://t3.ftcdn.net/jpg/02/20/21/40/360_F_220214030_D3P5eFfXvY8pz8SEhPeQh27xvbJ1jX1n.jpg",
+     "duration" : "6 months",
+     "price" : "240",
+     "details" : "Learning a new language can be an enjoyable experience at any age. People learn new languages for many different reasons, such as travel or work, and the benefits can be incredibly worthwhile, whatever the reason. Studying a foreign language can increase cultural knowledge and can help you feel more confident when travelling.  It's also a fact that learning a second language improves brain functionality.  Studies show that people who speak more than one language have improved memory, problem solving and critical-thinking skills, enhanced concentration, ability to multitask and better listening skills. Sounds great, right? So, now you know that it’s a good idea to learn a language, why is it important to learn English?"
+    },
+    {
+        "id" : "02",
+        "title" : "Italian",
+        "img" : "https://prod-discovery.edx-cdn.org/media/course/image/1e170500-f525-46c1-b8b9-c893cf6910d3-641dfb9218ec.small.jpg",
+        "duration" : "6 months",
+        "price" : "200",
+        "details" : "Italian Is The Most Studied Language In The World For Culture And Pleasure! Italian ranks as the fourth most studied language in US colleges and high schools, where the enrolment rate for Italian classes is growing 20% faster than for any other language.Study art history in the land that inspired Michelangelo. Read La Divina Commedia in the words of Dante.  Walk the streets where Archimedes ran naked shouting Eureka! A recent UNESCO report states that over 60% of the world’s art treasures are to be found in Italy. Italian language is key to study and research in the fields of art history, literature, archaeology and philosophy."
+    },
+    {
+        "id" : "03",
+        "title" : "French",
+        "img" : "https://cdn.ila-france.com/wp-content/uploads/2018/01/Learn-French-Comprehension.jpg",
+        "duration" : "4 months",
+        "price" : "180",
+        "details" : "More than 300 million people speak French on the five continents. The OIF, an international organisation of French-speaking countries, comprises 88 member States and governments. French is the second most widely learned foreign language after English, and the fifth most widely spoken language in the world. French is also the only language, alongside English, that is taught in every country in the world. France operates the biggest international network of cultural institutes, which run French-language courses for close on a million learners.The ability to speak French and English is an advantage on the international job market. A knowledge of French opens the doors of French companies in France and other French-speaking parts of the world. As one of the world’s largest economies and a leading destination for foreign investment, France is a key economic partner."
+    },
+    {
+        "id" : "04",
+        "title" : "Chinese",
+        "img" : "https://www.chineseedge.com.sg/wp-content/uploads/2019/04/great-reasons-for-learning-the-chinese-language.jpg",
+        "duration" : "8 months",
+        "price" : "300",
+        "details" : "Learning Chinese offers many benefits to personal and professional growth not least gaining a better understanding of one of the richest cultures in the world. Millions of people travel to China to see the shrines, walk The Great Wall of China and indulge in the wonderful food markets in cities such as Beijng. Here are 10 reasons to learn Mandarin.As well as China, Mandarin is spoken in countries such as Malaysia, Taiwan, Singapore, Indonesia, Thailand, Brunei, Phillipines and Mongolia so if you do business in these countries then it would be beneficial to converse in their language. "
+    },
+    {
+        "id" : "05",
+        "title" : "Spanish",
+        "img" : "https://www.grittyspanish.com/wp-content/uploads/2019/03/Great-tools-to-learn-Spanish-today.jpg",
+        "duration" : "5 months",
+        "price" : "220",
+        "details" : "There are over 400 million Spanish speakers world-wide.With more than 33 million speakers, Spanish is the second largest language in the United States. Hispanics are the largest minority in the United States, with the majority of them being Spanish speakers. By learning Spanish, you'll be better able to communicate with Spanish speakers. Latin American countries are our most important trading partners.Being able to speak Spanish greatly enhances your resume. If you are bilingual you are more competitive in the workplace. Whether as a Spanish teacher or that of any discipline, you can make a difference in the field of education. Your language skills will enable you to interact with English Language Learners.You can travel to a Spanish-speaking country and really get to know the culture. "
+    },
+    {
+        "id" : "06",
+        "title" : "Japanese",
+        "img" : "https://thumbs.dreamstime.com/z/learn-japanese-indicates-japan-language-speech-mountain-sun-symbols-130548046.jpg",
+        "duration" : "12 months",
+        "price" : "400",
+        "details" : "Japan is a prosperous country and has the most diverse economy in Asia. With a GDP of $4.9 trillion in 2005, Japan’s economy is 2nd only to that of the U.S. The leading Japanese companies are among the largest, most efficiently run, and most well-known firms in the world. Familiar names like Sony, Toshiba, Sanyo, Casio, Canon, Minolta, Honda, Toyota, Mitsubishi, and many others have infiltrated the world market in a variety of sectors.Japanese consumers spend 100s of billions of dollars each year on consumer goods and services like food, clothing, travel, and entertainment. The typical household has over $100,000 in savings and a disposable monthly income of $3,800. With all of that cash to spend, it is perhaps not surprising then that the United States exports more goods and services to Japan than any other overseas destination. In 2004, exports to Japan accounted for $54 billion of the U.S. GDP. In addition to these exports, 1000s of U.S. companies have successful branches in Japan. In 2004 alone, U.S. businesses spent $78 billion in direct investment in Japan."
+    }
+]
